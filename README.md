@@ -13,8 +13,6 @@ Welcome to **Python Keylogger**, a simple and educational project demonstrating 
 - [Usage](#-usage)
 - [How It Works](#-how-it-works)
 - [Legal Notice ⚠️](#-legal-notice-️)
-- [Screenshots](#-screenshots)
-- [License](#-license)
 - [Contributing](#-contributing)
 - [Contact](#-contact)
 
@@ -33,8 +31,8 @@ To run this keylogger on your local machine, follow the steps below:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/Satyampathania/python-keylogger.git
-    cd python-keylogger
+    git clone https://github.com/Satyampathania/basic-keylogger.git
+    cd basic-keylogger
     ```
 
 2. **Install the dependencies**:
@@ -76,28 +74,6 @@ Keyloggers have ethical and legal implications. Make sure to only use this softw
 
 ---
 
-## 🖼️ Screenshots
-
-Here are some screenshots demonstrating the keylogger in action:
-
-### Keylogger in Terminal
-![WhatsApp Image 2024-10-06 at 14 49 33_33c77877](https://github.com/user-attachments/assets/ffee21c3-84cf-4723-a159-fdda1cb751ae)
-
-### Running and testing
-![WhatsApp Image 2024-10-06 at 14 51 47_0d268b53](https://github.com/user-attachments/assets/c2b51a03-cf09-443e-bb80-8e2b352e4dfc)
-
-
-### Log File Output
-![WhatsApp Image 2024-10-06 at 14 53 15_332c563a](https://github.com/user-attachments/assets/f68bb52c-dfee-4e7f-9331-7cdedaee1f28)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -110,8 +86,8 @@ If you'd like to contribute, feel free to submit a pull request or open an issue
 
 Feel free to reach out with any questions or feedback!
 
-- GitHub: [@Satyampathania](https://github.com/Satyampathania)
-- Linkedin: [@Satyampathania](https://www.linkedin.com/in/satyam-pathania)
+- GitHub: [@Shreeyadave](https://github.com/sdave1226)
+- Linkedin: [@Shreeyadave](https://www.linkedin.com/in/shreeya-dave-4a298427b)
 
 ---
 
